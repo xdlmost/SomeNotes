@@ -31,3 +31,5 @@ graph TD;
 ```
 
 需要验证签名机能的时候，别忘了开启`System Integrity Protection`
+更改请参考[Apple Developer System Integrity Protection Guide][System Integrity Protection Guide]
+[System Integrity Protection Guide]:https://developer.apple.com/library/content/documentation/Security/Conceptual/System_Integrity_Protection_Guide/KernelExtensions/KernelExtensions.html#//apple_ref/doc/uid/TP40016462-CH4-SW1 "System Integrity Protection Guide"
